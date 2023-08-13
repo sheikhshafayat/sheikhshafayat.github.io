@@ -30,10 +30,10 @@ github_username: sheikhshafayat
 # orcid_username: 0000-0000-0000-0000
 
 # Additional icon links
-additional_links:
-- title: itsgoingto.be
-  icon: fas fa-globe
-  url: https://www.itsgoingto.be
+# additional_links:
+# - title: itsgoingto.be
+#   icon: fas fa-globe
+#   url: https://www.itsgoingto.be
 # - title: another link
 #   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
 #   url: Link url (eg. https://google.com)
@@ -46,12 +46,12 @@ additional_links:
 
 # About Section
 # about_title: About Me
-about_profile_image: images/profile.png
+about_profile_image: images/profile2.png
 about_content: | # this will include new lines to allow paragraphs
   Hi, I am an undergraduate student at KAIST, majoring in Computer Science, where alongside eating delicious dak-kalbi and budae jjigae, I conduct some research on neural network robustness, bias and distribution shift issues.
   My research interest also include LLM reasoning in low resource languages.
 
-  Currently, I am fortunate to be interning under professor Hyunjung Shim in [CVML KAIST](https://sites.google.com/view/cvml-kaist) exploring the use of the synthetic data to make neural networks robust to noise and perturbations and long tail shift. Besides, I am also actively collaborating with professor [Alice Oh](https://aliceoh9.github.io/) with a small project regarding low resource NLP.
+  Currently, I am fortunate to be interning under professor Hyunjung Shim in [CVML](https://sites.google.com/view/cvml-kaist) exploring the use of the synthetic data to make neural networks robust to noise and perturbations and long tail shift. Besides, I am actively collaborating with professor [Alice Oh](https://aliceoh9.github.io/) with a small project regarding low resource NLP.
 
   I am really open to meeting and chatting with new people about life, technology, research and everything in between. Feel free to reach out to me, and we can grab a coffee sometime in Seoul or Daejeon!
 
@@ -111,16 +111,16 @@ content:
     layout: text
     content: | # this will include new lines to allow paragraphs
       Since I couldn't find many good things to write about myself, here goes the list of some people whose work/life ethos I deeply admire. I have never met any of them and none of them knows me, yet, I look up to them whenever I need inspiration!
-      - [Chip Huyen](https://huyenchip.com/): She has super intuitive about how the tech world works, and a great communicator of what she knows. Also, definitely check out her reading list!
+      - [Chip Huyen](https://huyenchip.com/): She has a super intuitive understanding about how the tech world works, and she knows how to communicate what she knows. Also, definitely check out her reading list!
       - [François Chollet](https://fchollet.com/): The famed Google researcher and philosopher who has very important insights and opinions on AGI
       - [Michael Chang](http://mbchang.github.io/): Check out his reading list!
-      - [Andrej Karpathy](https://karpathy.ai/): Only if I could explain things as good as he does! His [youtube channel](https://www.youtube.com/@AndrejKarpathy) is a goldmine for learning to code things up from scratch!
+      - [Andrej Karpathy](https://karpathy.ai/): Andrej needs no introduction. Only if I could explain things as good as he does! His [youtube channel](https://www.youtube.com/@AndrejKarpathy) is a goldmine for learning to code things up from scratch!
 
       Look at this cool image  
       ![Trees](/modern-resume-theme/images/landscape-trees.jpg "Trees")
 
 # Footer
-footer_show_references: true
+footer_show_references: false
 references_title: Template [link](https://github.com/sproogen/modern-resume-theme)
 
 # Build settings
