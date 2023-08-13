@@ -48,7 +48,7 @@ additional_links:
 # about_title: About Me
 about_profile_image: images/profile.png
 about_content: | # this will include new lines to allow paragraphs
-  Hi, I am an undergraduate student at KAIST, majoring in Computer Science, where alongside eating delicious 닭갈비 and 부대찌개, I conduct some research on neural network robustness, bias and distribution shift issues.
+  Hi, I am an undergraduate student at KAIST, majoring in Computer Science, where alongside eating delicious dak-kalbi and budae jjigae, I conduct some research on neural network robustness, bias and distribution shift issues.
   My research interest also include LLM reasoning in low resource languages.
 
   Currently, I am fortunate to be interning under professor Hyunjung Shim in [CVML KAIST](https://sites.google.com/view/cvml-kaist) exploring the use of the synthetic data to make neural networks robust to noise and perturbations and long tail shift. Besides, I am also actively collaborating with professor [Alice Oh](https://aliceoh9.github.io/) with a small project regarding low resource NLP.
@@ -121,7 +121,7 @@ content:
 
 # Footer
 footer_show_references: true
-# references_title: References on request (Override references text)
+references_title: Template [link](https://github.com/sproogen/modern-resume-theme)
 
 # Build settings
 remote_theme: sproogen/resume-theme
