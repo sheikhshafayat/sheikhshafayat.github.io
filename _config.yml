@@ -47,7 +47,7 @@ google_scholar_username: _JBB58QAAAAJ
 
 # About Section
 # about_title: About Me
-about_profile_image: images/PROFILE3.JPG
+about_profile_image: images/PROFILE3.PNG
 about_content: | # this will include new lines to allow paragraphs
   Hi, I am an undergraduate student at KAIST, majoring in Computer Science. Alongside enjoying delicious dak-kalbi and budae jjigae, I conduct research related to NLP reasoning for low-resource languages under Professor [Alice Oh](https://aliceoh9.github.io/). I am also interested in LLM factuality and how factual knowledge is represented in LLMs.
 
