@@ -17,6 +17,7 @@ darkmode: false
 # Social links
 twitter_username: shafayat_sheikh
 github_username: sheikhshafayat
+google_scholar_username: _JBB58QAAAAJ
 # stackoverflow_username: "00000001"
 # dribbble_username: jekyll
 #facebook_username: facebook.com/shafayat.shato
@@ -46,7 +47,7 @@ github_username: sheikhshafayat
 
 # About Section
 # about_title: About Me
-about_profile_image: images/profile2.png
+about_profile_image: images/PROFILE3.JPG
 about_content: | # this will include new lines to allow paragraphs
   Hi, I am an undergraduate student at KAIST, majoring in Computer Science. Alongside enjoying delicious dak-kalbi and budae jjigae, I conduct research related to NLP reasoning for low-resource languages under Professor [Alice Oh](https://aliceoh9.github.io/). I am also interested in LLM factuality and how factual knowledge is represented in LLMs.
 
