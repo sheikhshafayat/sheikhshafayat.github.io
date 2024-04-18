@@ -49,17 +49,17 @@ google_scholar_username: _JBB58QAAAAJ
 # about_title: About Me
 about_profile_image: images/PROFILE3.PNG
 about_content: | # this will include new lines to allow paragraphs
-  Hi, I am an undergraduate student at KAIST, majoring in Computer Science. Alongside enjoying delicious dak-kalbi and budae jjigae, I conduct research related to NLP reasoning for low-resource languages under Professor [Alice Oh](https://aliceoh9.github.io/). I am also interested in LLM factuality and how factual knowledge is represented in LLMs.
+  Hi, I am an undergraduate student at KAIST, majoring in Computer Science. Alongside enjoying delicious 닭갈비 (dak-kalbi) and 부대찌개 (budae jjigae), I conduct research related to LLM reasoning, factuality and knowledge representation under Professor [Alice Oh](https://aliceoh9.github.io/). 
 
-  I collaborate with LK Lab of [Minjoon Seo](https://seominjoon.github.io/) as an external collaborator on projects regarding multilingual NLP.
+  I also collaborate with LK Lab of [Minjoon Seo](https://seominjoon.github.io/) as an external collaborator on projects regarding multilingual NLP. Along this line, I also spend some time after building benchmark datasets for low resource languages.
 
   Previously, I worked under Professor Hyunjung Shim in [CVML](https://sites.google.com/view/cvml-kaist), exploring the use of synthetic data to make convolutional neural networks robust to noise, perturbations, and long-tail shift.
 
   I am really open to meeting and chatting with new people about life, technology, research, literature, and everything in between. Feel free to reach out to me, and we can grab a coffee sometime in Seoul or Daejeon!
 
-  If you are looking for the training materials I curated for the Bangladesh Physics Olympiad, please refer to [here](https://smartiansofscience.org/pho-materials/) (Oops! I found that the site is down for now).
+  If you are looking for the training materials I curated for the Bangladesh Physics Olympiad, please refer to [here](https://smartiansofscience.org/pho-materials/) (Oops! I found that the site is down).
 
-  A (partially) maintained CV of mine can be found [here](https://docs.google.com/document/d/1qmBlSpN3PfOCr4rOwJWPg8lZisJHGYy0PhR2ARucJmc/edit?usp=sharing).
+  A (partially) maintained CV of mine can be found [here](https://docs.google.com/document/d/1qmBlSpN3PfOCr4rOwJWPg8lZisJHGYy0PhR2ARucJmc/edit?usp=sharing). You can find my papers in my [Google Scholar](https://scholar.google.com/citations?user=_JBB58QAAAAJ&hl=en). 
 
 
 content:
