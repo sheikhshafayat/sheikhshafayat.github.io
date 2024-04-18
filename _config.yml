@@ -51,7 +51,7 @@ about_profile_image: images/PROFILE3.PNG
 about_content: | # this will include new lines to allow paragraphs
   Hi, I am an undergraduate student at KAIST, majoring in Computer Science. Alongside enjoying delicious 닭갈비 (dak-kalbi) and 부대찌개 (budae jjigae), I conduct research related to LLM reasoning, factuality and knowledge representation under Professor [Alice Oh](https://aliceoh9.github.io/). 
 
-  I also collaborate with LK Lab of [Minjoon Seo](https://seominjoon.github.io/) as an external collaborator on projects regarding multilingual NLP. Along this line, I also spend some time after building benchmark datasets for low resource languages.
+  I also collaborate with LK Lab of [Minjoon Seo](https://seominjoon.github.io/) as an external collaborator on projects regarding multilingual NLP. Along this line, I also spend some time building benchmark datasets for low resource languages.
 
   Previously, I worked under Professor Hyunjung Shim in [CVML](https://sites.google.com/view/cvml-kaist), exploring the use of synthetic data to make convolutional neural networks robust to noise, perturbations, and long-tail shift.
 
