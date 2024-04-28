@@ -57,9 +57,9 @@ about_content: | # this will include new lines to allow paragraphs
 
   I am really open to meeting and chatting with new people about life, technology, research, literature, and everything in between. Feel free to reach out to me, and we can grab a coffee sometime in Seoul or Daejeon!
 
-  If you are looking for the training materials I curated for the Bangladesh Physics Olympiad, please refer to [here](https://smartiansofscience.org/pho-materials/) (Oops! I found that the site is down).
+  If you are looking for the training materials I curated for the Bangladesh Physics Olympiad, please refer to [here](https://smartiansofscience.org/pho-materials/) (Oops! The site seems to be down for some time).
 
-  A (partially) maintained CV of mine can be found [here](https://docs.google.com/document/d/1qmBlSpN3PfOCr4rOwJWPg8lZisJHGYy0PhR2ARucJmc/edit?usp=sharing). You can find my papers in my [Google Scholar](https://scholar.google.com/citations?user=_JBB58QAAAAJ&hl=en). 
+  A (partially) maintained CV of mine can be found [here](https://docs.google.com/document/d/1qmBlSpN3PfOCr4rOwJWPg8lZisJHGYy0PhR2ARucJmc/edit?usp=sharing). You can find my papers in [Google Scholar](https://scholar.google.com/citations?user=_JBB58QAAAAJ&hl=en). 
 
 
 content:
@@ -114,11 +114,13 @@ content:
   - title: People I look up to...
     layout: text
     content: | # this will include new lines to allow paragraphs
-      Since I couldn't find many good things to write about myself, here goes the list of some people whose work/life ethos I deeply admire. I have never met any of them and none of them knows me, yet, I look up to them whenever I need inspiration!
+      Since I couldn't find many good things to write about myself, here goes the list of some people whose work/life ethos I deeply admire (in no particular order). I have never met any of them and none of them knows me, yet, I look up to them whenever I need inspiration!
       - [Chip Huyen](https://huyenchip.com/): She has a super intuitive understanding about how the tech world works, and she knows how to communicate what she knows. Also, definitely check out her reading list!
+      - [Jared Diamond] (http://www.jareddiamond.org/Jared_Diamond/Welcome.html): I am a big of his works. His writings have kept me awake in many nights! One of the greatest minds of our time.
       - [François Chollet](https://fchollet.com/): The famed Google researcher and philosopher who has very important insights and opinions on AGI
       - [Michael Chang](http://mbchang.github.io/): Check out his reading list!
       - [Andrej Karpathy](https://karpathy.ai/): Andrej needs no introduction. Only if I could explain things as good as he does! His [youtube channel](https://www.youtube.com/@AndrejKarpathy) is a goldmine for learning to code things up from scratch!
+      
 
 
 
