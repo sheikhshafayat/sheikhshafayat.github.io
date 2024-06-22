@@ -1,137 +1,57 @@
-# Site
-repository: sproogen/resume-theme
-favicon: images/favicon.ico
+# Basic Information 
+title: Sheikh Shafayat
+position: Undergraduate (Senior)
+affiliation: KAIST
+email: sheikh.shafayat (at) kaist.ac.kr
 
-# Content configuration version
-version: 2
+# Search Engine Optimization (SEO)
+# The following information is used to improve the website traffic from search engines, e.g., Google.
+keywords: minimal light
+description: The Minimal Light is a simple and elegant jekyll theme for academic personal homepage.
+canonical: https://minimal-light-theme.yliu.me/
 
-# Personal info
-name: Sheikh Shafayat
-title: Speck of dust in the corner of Milkyway
-email: sheikh.shafayat@kaist.ac.kr
-website: sheikhshafayat.github.io
+# Links 
+# If you don't need one of them, you may delete the corresponding line.
+google_scholar: https://scholar.google.com/citations?user=_JBB58QAAAAJ&hl=en
+cv_link: https://docs.google.com/document/d/1qmBlSpN3PfOCr4rOwJWPg8lZisJHGYy0PhR2ARucJmc/edit
+github_link: https://github.com/sheikhshafayat
+# linkedin: https://www.linkedin.com/
+twitter: https://x.com/shafayat_sheikh
 
-# Dark Mode (true/false/never)
-darkmode: false
+# Images (e.g., your profile picture and your website's favicon) 
+# "favicon" and "favicon_dark" are used for the light and dark modes, respectively. 
+avatar: ./assets/img/headshot-spring.png
+favicon: ./assets/img/favicon.png
+favicon_dark: ./assets/img/favicon-dark.png
 
-# Social links
-twitter_username: shafayat_sheikh
-github_username: sheikhshafayat
-google_scholar_username: _JBB58QAAAAJ
-# stackoverflow_username: "00000001"
-# dribbble_username: jekyll
-#facebook_username: facebook.com/shafayat.shato
-# flickr_username: jekyll
-#instagram_username: jameswgrant
-#linkedin_username: jameswgrant
-# xing_username: jekyll
-# pinterest_username: jekyll
-#youtube_username: globalmtb
-# googleplus_username: +jekyll
-# orcid_username: 0000-0000-0000-0000
+# Footnote
+# You may use the option to disable the footnote, "Powered by Jekyll and Minimal Light theme."
+enable_footnote: true
 
-# Additional icon links
-# additional_links:
-# - title: itsgoingto.be
-#   icon: fas fa-globe
-#   url: https://www.itsgoingto.be
-# - title: another link
-#   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
-#   url: Link url (eg. https://google.com)
+# Auto Dark Mode
+# You may use the option to disable the automatic dark theme
+auto_dark_mode: false
 
-# Google Analytics and Tag Manager
-# Using more than one of these may cause issues with reporting
-# gtm: "GTM-0000000"
-# gtag: "UA-00000000-0"
-# google_analytics: "UA-00000000-0"
+# Font
+# You can use this option to choose between Serif or Sans Serif fonts.
+font: "Serif" # or "Sans Serif"
 
-# About Section
-# about_title: About Me
-about_profile_image: images/PROFILE3.PNG
-about_content: | # this will include new lines to allow paragraphs
-  Hi, I am an undergraduate student at KAIST, majoring in Computer Science. Alongside enjoying delicious 닭갈비 (dak-kalbi) and 부대찌개 (budae jjigae), I conduct research related to LLM reasoning, factuality and knowledge representation under Professor [Alice Oh](https://aliceoh9.github.io/). 
+# Google Analytics ID
+# Please remove this if you don't use Google Analytics
+# google_analytics: UA-111540567-4
 
-  I also collaborate with LK Lab of [Minjoon Seo](https://seominjoon.github.io/) as an external collaborator on projects regarding multilingual NLP. Along this line, I also spend some time building benchmark datasets for low resource languages.
+# Use this project as a remote theme for GitHub Pages
+# See the guide here: https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/adding-a-theme-to-your-github-pages-site-using-jekyll
+remote_theme: yaoyao-liu/minimal-light
 
-  Previously, I worked under Professor Hyunjung Shim in [CVML](https://sites.google.com/view/cvml-kaist), exploring the use of synthetic data to make convolutional neural networks robust to noise, perturbations, and long-tail shift.
-
-  I am really open to meeting and chatting with new people about life, technology, research, literature, and everything in between. Feel free to reach out to me, and we can grab a coffee sometime in Seoul or Daejeon!
-
-  A (partially) maintained CV of mine can be found [here](https://docs.google.com/document/d/1qmBlSpN3PfOCr4rOwJWPg8lZisJHGYy0PhR2ARucJmc/edit?usp=sharing). You can find my papers in [Google Scholar](https://scholar.google.com/citations?user=_JBB58QAAAAJ&hl=en). 
-
-
-content:
-
-  # - title: Projects # Title for the section
-  #   layout: list # Type of content section (list/text)
-  #   content:
-  #     - layout: top-middle
-  #       title: Super awesome project
-  #       link: github.com/sproogen
-  #       # link_text: Project Website
-  #       additional_links:
-  #         - title:  sproogen/modern-resume-theme
-  #           icon: fab fa-github
-  #           url: github.com/sproogen/modern-resume-theme
-  #         # - title:  Github page for project (eg. sproogen/modern-resume-theme)
-  #         #   icon: fab fa-github
-  #         #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
-  #       quote: >
-  #         This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
-  #       description: | # this will include new lines to allow paragraphs
-  #         I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
-
-  # - title: Experience # Title for the section
-  #   layout: list # Type of content section (list/text)
-  #   content:
-  #     - layout: left
-  #       title: The Boring Company
-  #       link: boringcompany.com
-  #       # link_text: boringcompany.com
-  #       sub_title: Senior Network System Administrator
-  #       caption: November 2017 - Present
-  #       quote: >
-  #         Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
-  #       description: | # this will include new lines to allow paragraphs
-  #           Every company needs its networks properly administered and The Boring Compay is no exception. Digging holes is hard and I play my part making sure the whole company stays connected. I lead a team of 5 people and enjoy driving the company to try new technologies.
-
-  # - title: Education # Title for the section
-  #   layout: list # Type of content section (list/text)
-  #   content:
-  #     - layout: left
-  #       title: Harvard University
-  #       caption: 2010 - 2013
-  #       sub_title: BSc Computer Science
-  #       quote: >
-  #         Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
-  #       description: | # this will include new lines to allow paragraphs
-  #         During my time at Harvard I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time as university and learnt a lot about a healthy work life balance.
-
-  #         I spent a lot of my free time as a committee member of the *Harvard Mountaineering Club* taking on roles such as *Trip Secretary* and *Vice-President*.
-
-  - title: People I look up to...
-    layout: text
-    content: | # this will include new lines to allow paragraphs
-      Since I couldn't find many good things to write about myself, here goes the list of some people whose work/life ethos I deeply admire (in no particular order). I have never met any of them and none of them knows me, yet, I look up to them whenever I need inspiration!
-      - [Chip Huyen](https://huyenchip.com/): She has a super intuitive understanding about how the tech world works, and she knows how to communicate what she knows. Also, definitely check out her reading list!
-      - [Jared Diamond](http://www.jareddiamond.org/Jared_Diamond/Welcome.html): I am a big of his works. His writings have kept me awake in many nights! One of the greatest minds of our time.
-      - [François Chollet](https://fchollet.com/): The famed Google researcher and philosopher who has very important insights and opinions on AGI (however vaguely the term is defined). His ARC paper completely changed the way I think about intelligence.
-      - [Michael Chang](http://mbchang.github.io/): Check out his reading list!
-      - [Andrej Karpathy](https://karpathy.ai/): Andrej needs no introduction. Only if I could explain things as good as he does! His [youtube channel](https://www.youtube.com/@AndrejKarpathy) is a goldmine for learning to code things up from scratch!
-      
-
-
-
-# Footer
-footer_show_references: false
-references_title: Template [link](https://github.com/sproogen/modern-resume-theme)
-
-# Build settings
-remote_theme: sproogen/resume-theme
-
-sass:
-  sass_dir: _sass
-  style: compressed
-
-plugins:
- - jekyll-seo-tag
+# The following files will be removed from the generated website.
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - README.md
+  - README_zh_Hans.md
+  - README_zh_Hant.md
+  - README_de.md
+  - LICENSE
+  - minimal-light.gemspec
+  - html_source_file/

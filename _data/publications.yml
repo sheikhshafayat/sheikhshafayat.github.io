@@ -1,0 +1,43 @@
+main:
+
+  - title: "The BiGGen Bench: A Principled Benchmark for Fine-grained Evaluation of Language Models with Language Models"
+    authors: Seungone Kim, Juyoung Suk, Ji Yong Cho, Shayne Longpre, Chaeeun Kim, Dongkeun Yoon, Guijin Son, Yejin Cho, <strong>Sheikh Shafayat</strong>, Jinheon Baek, Sue Hyun Park, Hyeonbin Hwang, Jinkyung Jo, Hyowon Cho, Haebin Shin, Seongyun Lee, Hanseok Oh, Noah Lee, Namgyu Ho, Se June Joo, Miyoung Ko, Yoonjoo Lee, Hyungjoo Chae, Jamin Shin, Joel Jang, Seonghyeon Ye, Bill Yuchen Lin, Sean Welleck, Graham Neubig, Moontae Lee, Kyungjae Lee, Minjoon Seo
+    conference_short: Arxiv
+    # conference: International Conference on Medical Image Computing and Computer-Assisted Intervention <strong>(MICCAI)</strong>, 2023.
+    pdf: https://arxiv.org/pdf/2406.05761
+    code: https://github.com/prometheus-eval/prometheus-eval/tree/main/BiGGen-Bench
+    image: ./assets/img/biggen.png
+    notes: Under Review
+
+  - title: "Multi-FAct: Assessing Multilingual LLMs' Multi-Regional Knowledge using FActScore"
+    authors: <strong>Sheikh Shafayat</strong>, Eunsu Kim, Juhyun Oh, Alice Oh
+    conference_short: ICLR Workshop
+    conference: Accepted to Global AI Cultures Workshop at ICLR 2024
+    pdf: https://arxiv.org/pdf/2402.18045
+    code: https://github.com/sheikhshafayat/multi-fact
+    # page: https://class-il.mpi-inf.mpg.de/mnemonics/
+    # bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
+    # notes: Oral Presentation
+    image: ./assets/img/multifact-iclrw.png
+
+  - title: "BEnQA: A Question Answering and Reasoning Benchmark for Bengali and English"
+    authors: <strong>Sheikh Shafayat</strong>, HM Hasan, Minhajur Rahman Chowdhury Mahim, Rifki Afina Putri, James Thorne, Alice Oh
+    conference_short: ACL
+    conference: Accepted to ACL-Findings 2024
+    pdf: https://arxiv.org/pdf/2403.10900
+    code: https://github.com/sheikhshafayat/BEnQA
+    # page: https://class-il.mpi-inf.mpg.de/mnemonics/
+    # bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
+    # notes: Oral Presentation
+    image: ./assets/img/benqa.png
+
+  - title: "LangBridge: Multilingual Reasoning Without Multilingual Supervision"
+    authors: Dongkeun Yoon, Joel Jang, Sungdong Kim, Seungone Kim, <strong>Sheikh Shafayat</strong>, Minjoon Seo
+    conference_short: ACL
+    conference: Accepted to ACL-Main 2024
+    pdf: https://arxiv.org/pdf/2403.10900
+    code: https://github.com/sheikhshafayat/BEnQA
+    # page: https://class-il.mpi-inf.mpg.de/mnemonics/
+    # bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
+    # notes: Oral Presentation
+    image: ./assets/img/langbridge.png
