@@ -4,7 +4,8 @@
 
 \[[Demo the theme](https://minimal-light-theme.yliu.me/)\]  \[[简体中文](https://github.com/yaoyao-liu/minimal-light/blob/master/README_zh_Hans.md) | [繁體中文](https://github.com/yaoyao-liu/minimal-light/blob/master/README_zh_Hant.md) | [Deutsche](https://github.com/yaoyao-liu/minimal-light/blob/master/README_de.md)\]
  
-*This is the source code of my homepage. I build this website based on [minimal](https://github.com/orderedlist/minimal).*
+*I (Sheikh) got this theme from [Yaoyao Liu](https://www.cs.jhu.edu/~yyliu/). All credit goes to him and his theme. The website is built on top of: [minimal](https://github.com/orderedlist/minimal).*
+
 <br>
 *Feel free to use and share the source code anywhere you like.*
 
