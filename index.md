@@ -20,8 +20,9 @@ A (partially) maintained CV of mine can be found [here](https://docs.google.com/
 
 ## News
 
-- **[Apr. 2024]** MultiFAct got accepted to ICLR Global AI Cultures Workshop
+- **[July. 2024]** MultiFAct for Multilingual Factuality got accepted to COLM-2024 
 - **[May. 2024]** BEnQA got accepted to ACL Findings
+- **[Apr. 2024]** MultiFAct got accepted to ICLR Global AI Cultures Workshop
 
 
 {% include_relative _includes/publications.md %}
