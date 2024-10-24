@@ -10,7 +10,7 @@ I also collaborate with LK Lab of Minjoon Seo as an external collaborator on pro
 
 Previously, I worked under Professor Hyunjung Shim in CVML, exploring the use of synthetic data to make convolutional neural networks robust to noise, perturbations, and long-tail shift.
 
-I am really open to meeting and chatting with new people about life, technology, research, literature, and everything in between. Feel free to schedule a meeting [here](https://calendly.com/sheikhshafayat2/30min) if you want to chat about something (any paper, potential collaboration, a cool novel etc). Or if you are in Daejeon or Seoul, reach out to my email and we can grab a coffe sometime in person!
+I am really open to meeting and chatting with new people about life, technology, research, literature, and everything in between. Feel free to schedule a meeting [here](https://calendly.com/sheikhshafayat2/30min) if you want to chat about something (any paper, potential collaboration, a cool novel etc).
 
 A (partially) maintained CV of mine can be found [here](https://docs.google.com/document/d/1qmBlSpN3PfOCr4rOwJWPg8lZisJHGYy0PhR2ARucJmc/edit).
 
