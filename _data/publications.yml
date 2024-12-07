@@ -1,4 +1,14 @@
 main:
+  - title: "A 2-step Framework for Automated Literary Translation Evaluation: Its Promises and Pitfalls"
+    authors: <strong> Sheikh Shafayat</strong>, Dongkeun Yoon, Woori Jang, Jiwoo Choi, Alice Oh, Seohyon Jung
+    conference_short: Arxiv
+    conference: Arxiv Preprint; To be submitted to ARR Dec'24
+    pdf: https://arxiv.org/abs/2412.01340
+    # code: https://github.com/sheikhshafayat/multi-fact
+    # page: https://class-il.mpi-inf.mpg.de/mnemonics/
+    # bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
+    # notes: Oral Presentation
+    image: ./assets/img/littrans-eval.png
   - title: "Multi-FAct: Assessing Factuality of Multilingual LLMs using FActScore"
     authors: <strong>Sheikh Shafayat</strong>, Eunsu Kim, Juhyun Oh, Alice Oh
     conference_short: COLM
