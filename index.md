@@ -8,9 +8,9 @@ Hi, I am an incoming M.S. student at the KAIST School of Computing, advised by A
 
 My current research interests include LLM reasoning (RLVR), AI creativity, and open-endedness. I also closely collaborate with [Andrea Zanette](https://azanette.com/) for projects related to LLM reasoning and self-improvement. I have finished my undergraduate at KAIST when I worked on evaluation, multilinguality, and cultural NLP.
 
-I am really open to meeting and chatting with new people about life, technology, research, literature, and everything in between. Feel free to [schedule a meeting](https://calendly.com/sheikhshafayat2/30min) if you want to chat about something (any paper, potential collaboration, a cool novel etc). If you are in Seoul or Daejeon, feel free to send me an email to grab a coffee in person! 
-
 A (partially) maintained CV of mine can be found [here](https://docs.google.com/document/d/1qmBlSpN3PfOCr4rOwJWPg8lZisJHGYy0PhR2ARucJmc/edit).
+
+I am really open to meeting and chatting with new people. Feel free to schedule an [online meeting](https://calendly.com/sheikhshafayat2/30min) if you want to chat about something (any paper, potential collaboration, a cool novel, or just about anything). If you are in Seoul and Daejeon, shoot me an email to grab a coffee or go climbing together!
 
 On my free time, I enjoy bouldering, running, playing chess (still a beginner), or basking in the sunset with a novel.
 
