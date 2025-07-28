@@ -38,7 +38,7 @@ main:
     pdf: https://arxiv.org/pdf/2406.05761
     code: https://github.com/prometheus-eval/prometheus-eval/tree/main/BiGGen-Bench
     image: ./assets/img/biggen.png
-    notes: Under Review
+    notes: Accepted to NAACL 2025 (Best Paper Award)
 
   - title: "BEnQA: A Question Answering and Reasoning Benchmark for Bengali and English"
     authors: <strong>Sheikh Shafayat</strong>, HM Hasan, Minhajur Rahman Chowdhury Mahim, Rifki Afina Putri, James Thorne, Alice Oh
