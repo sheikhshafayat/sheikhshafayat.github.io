@@ -1,4 +1,15 @@
 main:
+  - title: "Can Large Reasoning Models Self-Train?"
+    authors: <strong> Sheikh Shafayat</strong>, Fahim Tajwar, Ruslan Salakhutdinov, Jeff Schneider, Andrea Zanette
+    conference_short: Arxiv
+    # conference: Arxiv Preprint; To be submitted to ARR Dec'24
+    pdf: https://arxiv.org/abs/2505.21444
+    code: https://github.com/tajwarfahim/srt
+    page: https://self-rewarding-llm-training.github.io/
+    # bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
+    notes: Preprint
+    image: ./assets/img/srt.png
+
   - title: "A 2-step Framework for Automated Literary Translation Evaluation: Its Promises and Pitfalls"
     authors: <strong> Sheikh Shafayat</strong>, Dongkeun Yoon, Woori Jang, Jiwoo Choi, Alice Oh, Seohyon Jung
     conference_short: Arxiv
@@ -7,7 +18,7 @@ main:
     # code: https://github.com/sheikhshafayat/multi-fact
     # page: https://class-il.mpi-inf.mpg.de/mnemonics/
     # bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
-    notes: Under Review (ARR Dec'24)
+    notes: Preprint
     image: ./assets/img/littrans-eval.png
   - title: "Multi-FAct: Assessing Factuality of Multilingual LLMs using FActScore"
     authors: <strong>Sheikh Shafayat</strong>, Eunsu Kim, Juhyun Oh, Alice Oh
