@@ -33,5 +33,5 @@ On my free time, I enjoy bouldering, running, playing chess (still a beginner), 
 
 Here are the three latest books that I am reading/just finished. I would be very grateful to receive book recommendations from anyone!
 - **Convenience Store Woman (Sayaka Murata):** A woman working at a convenience store for 18 years feels herself to be a part of it. A beautiful novela on societal expectation, womanhood and abnormality. 
-- **Nexus (Yuval Noah Harari):** I enjoy Harari's writings — Sapiens being still one of my all time favorites. Nexus is a fascinating exploration on the nature of human collaboration and information networks (I am still in the beginning stage; so I might update this after finishing the book). 
-- **Never Let Me Go (Kazuo Ishiguro):** I just started this book, of which I heard a lot from a lot of people. Would update this once I am done.
+- **Nexus (Yuval Noah Harari):** Very interesting read on the role of information technology in sustaining large scale human networks. I have yet to finish it; once I do, I might update this. 
+- **Never Let Me Go (Kazuo Ishiguro):** Soothing, melancholic, yet dystopian. A touching exploration of love, memory, loss and meaning in life. 
