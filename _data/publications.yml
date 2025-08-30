@@ -1,6 +1,6 @@
 main:
   - title: "Can Large Reasoning Models Self-Train?"
-    authors: <strong> Sheikh Shafayat</strong>, Fahim Tajwar, Ruslan Salakhutdinov, Jeff Schneider, Andrea Zanette
+    authors: <strong> Sheikh Shafayat*</strong>, Fahim Tajwar*, Ruslan Salakhutdinov, Jeff Schneider, Andrea Zanette
     conference_short: Arxiv
     # conference: Arxiv Preprint; To be submitted to ARR Dec'24
     pdf: https://arxiv.org/abs/2505.21444
