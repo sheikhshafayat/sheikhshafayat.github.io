@@ -16,7 +16,7 @@ On my free time, I enjoy bouldering, running, or basking in the sunset with a no
 
 ## Research Interests
 
-- **NLP:** LLM reasoning, evaluation, creativity, open endedness, multilinguality
+- **NLP:** LLM reasoning, algorithmic creativity, open endedness, multilinguality
 
 ## News
 - **[May. 2025]** New Preprint: Can Large Reasoning Models Self-Train?
@@ -32,7 +32,7 @@ On my free time, I enjoy bouldering, running, or basking in the sunset with a no
 ## Current Readings 
 
 Here are a few latest books that I am reading/just finished. I would be very grateful to receive book recommendations from anyone!
-- **Convenience Store Woman (Sayaka Murata):** A woman working at a convenience store for 18 years feels herself to be a part of it. A beautiful novela on societal expectation, womanhood and abnormality. 
-- **Nexus (Yuval Noah Harari):** Very interesting read on the role of information technology in sustaining large scale human networks. My position on this book is somewhat mixed. While I find Harari's arguments on how information networks shape human history to be absolutely brilliant, he seems to be mistaken on the current state of AI progress. Modern AI/LLMs are not able to come up with ideas on its own (this might change in a few years, though) and merely a reflection of human data that it was trained on.
+- **East of Eden (John Steinbeck):** This is the most American thing I have ever read. A fantastic family saga relating war, violence, love, immigration, assimilation, capitalism, corruption and moral ambivalence.
+- **Nexus (Yuval Noah Harari):** Very interesting read on the role of information technology in sustaining large scale human networks. My position on this book is somewhat mixed. While I find Harari's thesis on how information networks and intersubjective reality shape human history to be absolutely brilliant, he seems to be deeply mistaken on the current state of AI progress. I love the part I of the book, but part II? Not so much.
 - **Never Let Me Go (Kazuo Ishiguro):** Soothing, melancholic, yet dystopian. A touching exploration of love, memory, loss and meaning in life. 
 - **Meditations (Marcus Aurelius):** A Stoic classic. I was always drawn to Stoicism, but never had the chance to get started with the primary sources. This book is changing that.
