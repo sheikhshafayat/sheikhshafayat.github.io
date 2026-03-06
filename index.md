@@ -4,17 +4,13 @@ layout: homepage
 
 ## About Me
 
-Hi, I am an M.S. student at the KAIST School of Computing, advised by Alice Oh. 
+Hi, I am an incoming PhD student at Max Planck Institute for Software Systems. 
 
-My current research interests include LLM reasoning (RLVR), AI creativity, and open-endedness. I closely collaborate with [Andrea Zanette](https://azanette.com/) for projects related to LLM reasoning and self-improvement. I did my undergraduate at KAIST when I worked on evaluation, multilinguality, and cultural NLP.
+My current research interests include LLM reasoning (RLVR), AI creativity, and open-endedness. I did my undergraduate at KAIST where I worked on evaluation, multilinguality, and cultural NLP. Currently, I work as an intern with [Abhilasha Ravichander](https://lasharavichander.github.io/). 
 
 A (partially) maintained CV of mine can be found [here](https://docs.google.com/document/d/1qmBlSpN3PfOCr4rOwJWPg8lZisJHGYy0PhR2ARucJmc/edit).
 
-I am really open to meeting and chatting with new people. Feel free to send me an email if you want to chat about something (any paper, potential collaboration, a cool novel, or just about anything). ~~If you are in Seoul and Daejeon, shoot me an email to grab a coffee or go climbing together!~~
-<span style="color: #a94442;">
-I will be an intern at MPI-SWS, Germany, working with [Abhilasha Ravichander](https://lasharavichander.github.io/), starting January 5, 2026. If you happen to be in Europe, let's try to meet in person!
-</span>
-
+I am really open to meeting and chatting with new people. Feel free to send me an email if you want to chat about something (any paper, potential collaboration, a cool novel, or just about anything). If you happen to be in Germany, shoot me an email to grab a coffee or go bouldering together.
 
 On my free time, I enjoy bouldering, running, or basking in the sunset with a novel.
 
